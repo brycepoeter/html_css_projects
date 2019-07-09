@@ -1,0 +1,32 @@
+.deal-1 {
+    width: 36px;
+    height: 36px;
+    background-color: rgb(51, 133, 153);
+    margin: 10px;
+    padding: 7px;
+    text-align: center;
+    display: inline-block;
+}
+
+.deal-3 {
+    width: 10px;
+    height: 10px;
+    background-color: blanchedalmond;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.deal-2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(51, 133, 153);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color:rgb(71, 255, 230)
+}
